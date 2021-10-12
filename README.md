@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cmichalis
+- 👋 Hi, I’m @michalis
 - 👀 I’m interested in learning to code. 
 - 🌱 I’m currently learning the basics. 
 - 💞️ I’m looking to collaborate on beginner work.
